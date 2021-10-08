@@ -1,0 +1,26 @@
+test_name,provided
+Haemoglobin (HB),130
+White Cell Count (WBC),4
+Platelet Count (PLT),150
+Red Blood Count (RBC),4.5
+Mean Cell Volume (MCV),80
+Packed Cell Volume (PCV)/Haematocrit (HCT),0
+Mean Cell Haemoglobin (MCH),27
+Mean Cell Haemoglobin Concentration (MCHC),320
+Neutrophil Count,2
+Lymphocyte Count,1.5
+Monocyte Count,0.2
+Eosinophil Count,0
+Basophil Count,0
+Erythrocyte Sedimentation Rate (ESR),1
+Reticulocytes,0
+PT,10
+INR,0.8
+APTT,23
+Fibrinogen,1.5
+Antithrombin Activity,80
+Protein S Free Antigen,60
+Protein C Activity,70
+D-Dimers,0.1
+Factor VIII,5
+Factor IX,50

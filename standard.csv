@@ -1,0 +1,26 @@
+test_name,low_male,high_male,low_female,high_female,units
+Haemoglobin (HB),130,180,115,165,g/L
+White Cell Count (WBC),4,11,4,11,109/L
+Platelet Count (PLT),150,450,150,450,109/L
+Red Blood Count (RBC),4.5,6.5,3.8,5.8,1012/L
+Mean Cell Volume (MCV),80,100,80,100,fl
+Packed Cell Volume (PCV)/Haematocrit (HCT),0.4,0.52,0.37,0.47,L/L
+Mean Cell Haemoglobin (MCH),27,32,27,32,pg
+Mean Cell Haemoglobin Concentration (MCHC),320,360,320,360,g/L
+Neutrophil Count,2,7.5,2,7.5,109/L
+Lymphocyte Count,1.5,4.5,1.5,4.5,109/L
+Monocyte Count,0.2,0.8,0.2,0.8,109/L
+Eosinophil Count,0,0.4,0,0.4,109/L
+Basophil Count,0,0.1,0,0.1,109/L
+Erythrocyte Sedimentation Rate (ESR),1,10,1,12,mm/hr
+Reticulocytes,0.2,2,0.2,2,%
+PT,10,13,10,13,Secs
+INR,0.8,1.2,0.8,1.2,Ratio
+APTT,23,30,23,30,Secs
+Fibrinogen,1.5,4.5,1.5,4.5,g/L
+Antithrombin Activity,80,120,80,120,iu/dL
+Protein S Free Antigen,60,140,60,140,iu/dL
+Protein C Activity,70,130,70,130,iu/dL
+D-Dimers,0.1,0.45,0.1,0.45,mg/L FEU
+Factor VIII,50,150,50,150,iu/dL
+Factor IX,50,150,50,150,iu/dL

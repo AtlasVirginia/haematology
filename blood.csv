@@ -1,0 +1,26 @@
+,test_name,low_male,high_male,low_female,high_female,units,provided,bigger_than_f,smaller_than_f,equal_f
+0,Haemoglobin (HB),130.0,180.0,115.0,165.0,g/L,130.0,False,False,True
+1,White Cell Count (WBC),4.0,11.0,4.0,11.0,109/L,4.0,False,False,True
+2,Platelet Count (PLT),150.0,450.0,150.0,450.0,109/L,150.0,False,False,True
+3,Red Blood Count (RBC),4.5,6.5,3.8,5.8,1012/L,4.5,False,False,True
+4,Mean Cell Volume (MCV),80.0,100.0,80.0,100.0,fl,80.0,False,False,True
+5,Packed Cell Volume (PCV)/Haematocrit (HCT),0.4,0.52,0.37,0.47,L/L,0.0,False,True,False
+6,Mean Cell Haemoglobin (MCH),27.0,32.0,27.0,32.0,pg,27.0,False,False,True
+7,Mean Cell Haemoglobin Concentration (MCHC),320.0,360.0,320.0,360.0,g/L,320.0,False,False,True
+8,Neutrophil Count,2.0,7.5,2.0,7.5,109/L,2.0,False,False,True
+9,Lymphocyte Count,1.5,4.5,1.5,4.5,109/L,1.5,False,False,True
+10,Monocyte Count,0.2,0.8,0.2,0.8,109/L,0.2,False,False,True
+11,Eosinophil Count,0.0,0.4,0.0,0.4,109/L,0.0,False,False,True
+12,Basophil Count,0.0,0.1,0.0,0.1,109/L,0.0,False,False,True
+13,Erythrocyte Sedimentation Rate (ESR),1.0,10.0,1.0,12.0,mm/hr,1.0,False,False,True
+14,Reticulocytes,0.2,2.0,0.2,2.0,%,0.0,False,True,False
+15,PT,10.0,13.0,10.0,13.0,Secs,10.0,False,False,True
+16,INR,0.8,1.2,0.8,1.2,Ratio,0.8,False,False,True
+17,APTT,23.0,30.0,23.0,30.0,Secs,23.0,False,False,True
+18,Fibrinogen,1.5,4.5,1.5,4.5,g/L,1.5,False,False,True
+19,Antithrombin Activity,80.0,120.0,80.0,120.0,iu/dL,80.0,False,False,True
+20,Protein S Free Antigen,60.0,140.0,60.0,140.0,iu/dL,60.0,False,False,True
+21,Protein C Activity,70.0,130.0,70.0,130.0,iu/dL,70.0,False,False,True
+22,D-Dimers,0.1,0.45,0.1,0.45,mg/L FEU,0.1,False,False,True
+23,Factor VIII,50.0,150.0,50.0,150.0,iu/dL,5.0,False,True,False
+24,Factor IX,50.0,150.0,50.0,150.0,iu/dL,50.0,False,False,True
